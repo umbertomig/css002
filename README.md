@@ -1,12 +1,12 @@
 # CSS 2
 
-## Data and Model Programming for Computational Social Science
+**Data and Model Programming for Computational Social Science**
 
 [Dr. Umberto Mignozzetti](https://github.com/umbertomig)
 
 ---
 
-This course explores the use of computational methods across the social sciences. Topics include thinking like a computational social scientist; research design for large datasets; legal and ethical dimensions of Computational Social Science. Students will implement demonstrations of these methods in Python.
+This course teaches the use of computational methods across the social sciences. Topics include basic data manipulation, plotting data and visualizations, applied statistics, and machine learning. We will also develop skills such as thinking like a computational social scientist; research design for large datasets; legal and ethical dimensions of Computational Social Science. Students will implement these methods in Python.
 
 In this repo:
 
