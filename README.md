@@ -19,4 +19,5 @@ In this repo:
 
 ***Go tritons!***
 
-![UCSanDiegoLogo-BlueGold-RGB](https://github.com/user-attachments/assets/31193af8-e961-41b5-b057-0ccf6ef6d4da)
+![UCSanDiegoLogo-BlueGold](https://github.com/user-attachments/assets/b8a43bec-5879-4f2b-8cd0-c7f2f6badc00)
+
