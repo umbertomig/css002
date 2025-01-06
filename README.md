@@ -1,6 +1,6 @@
 ![UCSanDiegoLogo-BlueGold](https://github.com/user-attachments/assets/b8a43bec-5879-4f2b-8cd0-c7f2f6badc00)
 
-# CSS 2: Data and Model Programming for Computational Social Science**
+# CSS 2 - Data and Model Programming for Computational Social Science
 
 [Dr. Umberto Mignozzetti](https://github.com/umbertomig)
 
