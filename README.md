@@ -1,5 +1,7 @@
 # CSS 2
+
 ## Data and Model Programming for Computational Social Science
+
 [Dr. Umberto Mignozzetti](https://github.com/umbertomig)
 
 ---
