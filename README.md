@@ -6,8 +6,6 @@
 
 Winter 2025
 
----
-
 This course teaches the use of computational methods across the social sciences. Topics include basic data manipulation, plotting data and visualizations, applied statistics, and machine learning. We will also develop skills such as thinking like a computational social scientist; research design for large datasets; legal and ethical dimensions of Computational Social Science. Students will implement these methods in Python.
 
 In this repo:
