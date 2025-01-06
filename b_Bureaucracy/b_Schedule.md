@@ -4,9 +4,11 @@ Note that this schedule is **aspirational** and is therefore **subject to change
 
 | Date | Topics | Assignment due | Notes | Reading |
 | ---- | ------ | -------------- | ----- | ------- |
-| **Week 1** | **Introduction, Ethics** | | | |
-| M-01-08-2024 | Introduction | | | |
-| W-01-10-2024 | Ethics: Bias and Fairness | | | [Are computer-aided decisions actually fair?](https://www.bu.edu/articles/2018/algorithmic-fairness/)|
+| **Week 1** | **Introduction** | | | |
+| M-01-06-2025 | Introduction | | | |
+
+Rest TBA!
+<!---| W-01-10-2024 | Ethics: Bias and Fairness | | | [Are computer-aided decisions actually fair?](https://www.bu.edu/articles/2018/algorithmic-fairness/)|
 | F-01-12-2024 | Ethics: Privacy, CSS for Social Good | | | |
 | **Week 2** | **Python Review** | | | |
 | M-01-15-2024 | **Holiday (MLK, Jr. Day)** |  | | |
@@ -48,3 +50,4 @@ Note that this schedule is **aspirational** and is therefore **subject to change
 | M-03-18-2024 |  | | | |
 | W-03-20-2024 |  | **Final project due** | | |
 | F-03-22-2024 |  | | | |
+--->
